@@ -1,7 +1,22 @@
+# Grouped ECats.yaml - Proxies organized by accessible URLs
+# Generated: 2025-08-25 15:54:39
+# Based on: Catx.yaml
+# URLs tested: 10
+# Successful proxies: 80
+#
+# This file groups proxies by their ability to access specific URLs
+# Similar to Catsx.yaml structure but based on actual URL testing
+
 proxies:
   # ==========================================
   # ðŸŒ ALL CATS - All Working Proxies
   # ==========================================
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 1 - ALL CATS"
+    type: socks5
+    server: 103.126.23.222
+    port: 1088
+    username: test
+    password: test
   - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 2 - ALL CATS"
     type: socks5
     server: 103.38.55.55
@@ -398,15 +413,15 @@ proxies:
     port: 9090
     username: MX
     password: XM
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 105 - ALL CATS"
-    type: socks5
-    server: 43.243.204.181
-    port: 9090
-    username: MX
-    password: XM
   - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 106 - ALL CATS"
     type: socks5
     server: 43.243.204.193
+    port: 9090
+    username: MX
+    password: XM
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 105 - ALL CATS"
+    type: socks5
+    server: 43.243.204.181
     port: 9090
     username: MX
     password: XM
@@ -425,12 +440,6 @@ proxies:
   - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 111 - ALL CATS"
     type: socks5
     server: 119.40.89.138
-    port: 9090
-    username: MX
-    password: XM
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 114 - ALL CATS"
-    type: socks5
-    server: 119.40.93.154
     port: 9090
     username: MX
     password: XM
@@ -482,221 +491,221 @@ proxies:
     port: 1052
     username: ras
     password: ras
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 123 - ALL CATS"
-    type: socks5
-    server: 210.4.76.163
-    port: 9090
-    username: MX
-    password: XM
 
   # ==========================================
-  # ðŸŒ POWERFULROUTER_172_16_50_4 - Proxies for http://172.16.50.4
+  # ðŸŒ POWERFULGATEWAY_172_16_50_4 - Proxies for http://172.16.50.4
   # ==========================================
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 2 - POWERFULROUTER_172_16_50_4"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 1 - POWERFULGATEWAY_172_16_50_4"
+    type: socks5
+    server: 103.126.23.222
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 2 - POWERFULGATEWAY_172_16_50_4"
     type: socks5
     server: 103.38.55.55
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 3 - POWERFULROUTER_172_16_50_4"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 3 - POWERFULGATEWAY_172_16_50_4"
     type: socks5
     server: 103.166.253.94
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 6 - POWERFULROUTER_172_16_50_4"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 6 - POWERFULGATEWAY_172_16_50_4"
     type: socks5
     server: 103.108.60.35
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 9 - POWERFULROUTER_172_16_50_4"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 9 - POWERFULGATEWAY_172_16_50_4"
     type: socks5
     server: 103.197.48.198
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 12 - POWERFULROUTER_172_16_50_4"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 12 - POWERFULGATEWAY_172_16_50_4"
     type: socks5
     server: 203.76.148.154
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 13 - POWERFULROUTER_172_16_50_4"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 13 - POWERFULGATEWAY_172_16_50_4"
     type: socks5
     server: 180.148.214.52
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 15 - POWERFULROUTER_172_16_50_4"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 15 - POWERFULGATEWAY_172_16_50_4"
     type: socks5
     server: 103.159.218.218
     port: 1920
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 16 - POWERFULROUTER_172_16_50_4"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 16 - POWERFULGATEWAY_172_16_50_4"
     type: socks5
     server: 43.229.210.8
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 17 - POWERFULROUTER_172_16_50_4"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 17 - POWERFULGATEWAY_172_16_50_4"
     type: socks5
     server: 103.123.169.243
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 20 - POWERFULROUTER_172_16_50_4"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 20 - POWERFULGATEWAY_172_16_50_4"
     type: socks5
     server: 103.122.252.94
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 23 - POWERFULROUTER_172_16_50_4"
-    type: socks5
-    server: 202.144.201.98
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 21 - POWERFULROUTER_172_16_50_4"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 21 - POWERFULGATEWAY_172_16_50_4"
     type: socks5
     server: 58.84.33.11
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 25 - POWERFULROUTER_172_16_50_4"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 23 - POWERFULGATEWAY_172_16_50_4"
+    type: socks5
+    server: 202.144.201.98
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 25 - POWERFULGATEWAY_172_16_50_4"
     type: socks5
     server: 103.129.200.102
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 26 - POWERFULROUTER_172_16_50_4"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 26 - POWERFULGATEWAY_172_16_50_4"
     type: socks5
     server: 103.197.48.126
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 27 - POWERFULROUTER_172_16_50_4"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 27 - POWERFULGATEWAY_172_16_50_4"
     type: socks5
     server: 103.81.104.161
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 28 - POWERFULROUTER_172_16_50_4"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 28 - POWERFULGATEWAY_172_16_50_4"
     type: socks5
     server: 116.206.91.65
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 29 - POWERFULROUTER_172_16_50_4"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 29 - POWERFULGATEWAY_172_16_50_4"
     type: socks5
     server: 103.81.104.206
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 31 - POWERFULROUTER_172_16_50_4"
-    type: socks5
-    server: 203.96.226.98
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 30 - POWERFULROUTER_172_16_50_4"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 30 - POWERFULGATEWAY_172_16_50_4"
     type: socks5
     server: 103.189.158.13
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 32 - POWERFULROUTER_172_16_50_4"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 31 - POWERFULGATEWAY_172_16_50_4"
+    type: socks5
+    server: 203.96.226.98
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 32 - POWERFULGATEWAY_172_16_50_4"
     type: socks5
     server: 103.108.60.92
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 35 - POWERFULROUTER_172_16_50_4"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 35 - POWERFULGATEWAY_172_16_50_4"
     type: socks5
     server: 103.254.167.18
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 36 - POWERFULROUTER_172_16_50_4"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 36 - POWERFULGATEWAY_172_16_50_4"
     type: socks5
     server: 103.30.29.204
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 38 - POWERFULROUTER_172_16_50_4"
-    type: socks5
-    server: 103.140.25.10
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 40 - POWERFULROUTER_172_16_50_4"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 40 - POWERFULGATEWAY_172_16_50_4"
     type: socks5
     server: 103.108.60.173
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 41 - POWERFULROUTER_172_16_50_4"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 38 - POWERFULGATEWAY_172_16_50_4"
+    type: socks5
+    server: 103.140.25.10
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 41 - POWERFULGATEWAY_172_16_50_4"
     type: socks5
     server: 103.166.253.92
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 42 - POWERFULROUTER_172_16_50_4"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 42 - POWERFULGATEWAY_172_16_50_4"
     type: socks5
     server: 103.129.200.173
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 43 - POWERFULROUTER_172_16_50_4"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 43 - POWERFULGATEWAY_172_16_50_4"
     type: socks5
     server: 103.122.254.33
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 46 - POWERFULROUTER_172_16_50_4"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 46 - POWERFULGATEWAY_172_16_50_4"
     type: socks5
     server: 203.190.9.73
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 51 - POWERFULROUTER_172_16_50_4"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 51 - POWERFULGATEWAY_172_16_50_4"
     type: socks5
     server: 103.81.104.177
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 64 - POWERFULROUTER_172_16_50_4"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 64 - POWERFULGATEWAY_172_16_50_4"
     type: socks5
     server: 103.126.23.240
     port: 1080
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 69 - POWERFULROUTER_172_16_50_4"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 69 - POWERFULGATEWAY_172_16_50_4"
     type: socks5
     server: 115.127.107.106
     port: 6699
     username: ECats
     password: ECats
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 73 - POWERFULROUTER_172_16_50_4"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 73 - POWERFULGATEWAY_172_16_50_4"
     type: socks5
     server: 115.127.39.18
     port: 6699
     username: ECats
     password: ECats
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 75 - POWERFULROUTER_172_16_50_4"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 75 - POWERFULGATEWAY_172_16_50_4"
     type: socks5
     server: 115.127.106.158
     port: 6699
     username: ECats
     password: ECats
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 76 - POWERFULROUTER_172_16_50_4"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 76 - POWERFULGATEWAY_172_16_50_4"
     type: socks5
     server: 115.127.147.40
     port: 6699
     username: ECats
     password: ECats
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 80 - POWERFULROUTER_172_16_50_4"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 80 - POWERFULGATEWAY_172_16_50_4"
     type: socks5
     server: 123.253.37.149
     port: 6699
@@ -704,39 +713,351 @@ proxies:
     password: ECats
 
   # ==========================================
-  # ðŸŒ EBOX - Proxies for http://fs.ebox.live
+  # ðŸŒ FTPBD - Proxies for https://ftpbd.net
   # ==========================================
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 2 - EBOX"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 1 - FTPBD"
     type: socks5
-    server: 103.38.55.55
+    server: 103.126.23.222
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 3 - EBOX"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 6 - FTPBD"
     type: socks5
-    server: 103.166.253.94
+    server: 103.108.60.35
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 17 - EBOX"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 7 - FTPBD"
     type: socks5
-    server: 103.123.169.243
+    server: 103.84.252.101
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 23 - EBOX"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 8 - FTPBD"
+    type: socks5
+    server: 123.253.96.249
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 9 - FTPBD"
+    type: socks5
+    server: 103.197.48.198
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 10 - FTPBD"
+    type: socks5
+    server: 118.179.158.241
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 12 - FTPBD"
+    type: socks5
+    server: 203.76.148.154
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 13 - FTPBD"
+    type: socks5
+    server: 180.148.214.52
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 15 - FTPBD"
+    type: socks5
+    server: 103.159.218.218
+    port: 1920
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 16 - FTPBD"
+    type: socks5
+    server: 43.229.210.8
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 20 - FTPBD"
+    type: socks5
+    server: 103.122.252.94
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 21 - FTPBD"
+    type: socks5
+    server: 58.84.33.11
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 22 - FTPBD"
+    type: socks5
+    server: 103.71.46.197
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 23 - FTPBD"
     type: socks5
     server: 202.144.201.98
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 41 - EBOX"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 25 - FTPBD"
     type: socks5
-    server: 103.166.253.92
+    server: 103.129.200.102
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 125 - EBOX"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 26 - FTPBD"
+    type: socks5
+    server: 103.197.48.126
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 27 - FTPBD"
+    type: socks5
+    server: 103.81.104.161
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 28 - FTPBD"
+    type: socks5
+    server: 116.206.91.65
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 29 - FTPBD"
+    type: socks5
+    server: 103.81.104.206
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 30 - FTPBD"
+    type: socks5
+    server: 103.189.158.13
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 31 - FTPBD"
+    type: socks5
+    server: 203.96.226.98
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 32 - FTPBD"
+    type: socks5
+    server: 103.108.60.92
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 33 - FTPBD"
+    type: socks5
+    server: 118.179.214.107
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 34 - FTPBD"
+    type: socks5
+    server: 203.190.8.8
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 35 - FTPBD"
+    type: socks5
+    server: 103.254.167.18
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 36 - FTPBD"
+    type: socks5
+    server: 103.30.29.204
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 37 - FTPBD"
+    type: socks5
+    server: 123.49.39.120
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 38 - FTPBD"
+    type: socks5
+    server: 103.140.25.10
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 39 - FTPBD"
+    type: socks5
+    server: 103.197.48.154
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 40 - FTPBD"
+    type: socks5
+    server: 103.108.60.173
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 42 - FTPBD"
+    type: socks5
+    server: 103.129.200.173
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 43 - FTPBD"
+    type: socks5
+    server: 103.122.254.33
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 44 - FTPBD"
+    type: socks5
+    server: 103.84.252.97
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 45 - FTPBD"
+    type: socks5
+    server: 103.199.155.186
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 46 - FTPBD"
+    type: socks5
+    server: 203.190.9.73
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 47 - FTPBD"
+    type: socks5
+    server: 220.247.165.129
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 48 - FTPBD"
+    type: socks5
+    server: 123.253.96.148
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 49 - FTPBD"
+    type: socks5
+    server: 202.4.105.122
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 50 - FTPBD"
+    type: socks5
+    server: 103.245.96.21
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 51 - FTPBD"
+    type: socks5
+    server: 103.81.104.177
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 52 - FTPBD"
+    type: socks5
+    server: 103.91.231.244
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 53 - FTPBD"
+    type: socks5
+    server: 103.186.238.1
+    port: 9169
+    username: true
+    password: true
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 61 - FTPBD"
+    type: socks5
+    server: 122.102.35.105
+    port: 1080
+    username: user1
+    password: user1
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 63 - FTPBD"
+    type: socks5
+    server: 115.127.192.158
+    port: 9966
+    username: Admintest
+    password: Admintest
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 70 - FTPBD"
+    type: socks5
+    server: 49.0.46.98
+    port: 1080
+    username: Admintest
+    password: Admintest
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 62 - FTPBD"
+    type: socks5
+    server: 103.179.154.27
+    port: 1080
+    username: ECats@dx
+    password: ECats@dx
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 72 - FTPBD"
+    type: socks5
+    server: 180.211.169.46
+    port: 1080
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 64 - FTPBD"
+    type: socks5
+    server: 103.126.23.240
+    port: 1080
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 65 - FTPBD"
+    type: socks5
+    server: 118.179.197.30
+    port: 9090
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 77 - FTPBD"
+    type: socks5
+    server: 118.179.81.98
+    port: 6699
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 78 - FTPBD"
+    type: socks5
+    server: 118.179.101.117
+    port: 6699
+    username: test9
+    password: test9
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 79 - FTPBD"
+    type: socks5
+    server: 103.4.64.163
+    port: 6969
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 80 - FTPBD"
+    type: socks5
+    server: 123.253.37.149
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 81 - FTPBD"
+    type: socks5
+    server: 49.0.39.182
+    port: 1080
+    username: Admintest
+    password: Admintest
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 83 - FTPBD"
+    type: socks5
+    server: 45.125.220.223
+    port: 1052
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 94 - FTPBD"
+    type: socks5
+    server: 103.218.27.66
+    port: 1052
+    username: ras
+    password: ras
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 95 - FTPBD"
+    type: socks5
+    server: 103.218.27.67
+    port: 1052
+    username: ras
+    password: ras
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 125 - FTPBD"
     type: socks5
     server: 43.224.116.21
     port: 1052
@@ -744,148 +1065,246 @@ proxies:
     password: ras
 
   # ==========================================
-  # ðŸŒ DISCOVERY - Proxies for https://discoveryftp.net
+  # ðŸŒ SAMFTP - Proxies for http://10.16.100.244
   # ==========================================
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 2 - DISCOVERY"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 2 - SAMFTP"
     type: socks5
     server: 103.38.55.55
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 3 - DISCOVERY"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 3 - SAMFTP"
     type: socks5
     server: 103.166.253.94
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 9 - DISCOVERY"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 6 - SAMFTP"
     type: socks5
-    server: 103.197.48.198
+    server: 103.108.60.35
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 17 - DISCOVERY"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 7 - SAMFTP"
+    type: socks5
+    server: 103.84.252.101
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 8 - SAMFTP"
+    type: socks5
+    server: 123.253.96.249
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 10 - SAMFTP"
+    type: socks5
+    server: 118.179.158.241
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 13 - SAMFTP"
+    type: socks5
+    server: 180.148.214.52
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 15 - SAMFTP"
+    type: socks5
+    server: 103.159.218.218
+    port: 1920
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 16 - SAMFTP"
+    type: socks5
+    server: 43.229.210.8
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 17 - SAMFTP"
     type: socks5
     server: 103.123.169.243
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 21 - DISCOVERY"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 22 - SAMFTP"
     type: socks5
-    server: 58.84.33.11
+    server: 103.71.46.197
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 25 - DISCOVERY"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 23 - SAMFTP"
     type: socks5
-    server: 103.129.200.102
+    server: 202.144.201.98
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 26 - DISCOVERY"
-    type: socks5
-    server: 103.197.48.126
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 35 - DISCOVERY"
-    type: socks5
-    server: 103.254.167.18
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 41 - DISCOVERY"
-    type: socks5
-    server: 103.166.253.92
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 42 - DISCOVERY"
-    type: socks5
-    server: 103.129.200.173
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 62 - DISCOVERY"
-    type: socks5
-    server: 103.179.154.27
-    port: 1080
-    username: ECats@dx
-    password: ECats@dx
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 69 - DISCOVERY"
-    type: socks5
-    server: 115.127.107.106
-    port: 6699
-    username: ECats
-    password: ECats
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 73 - DISCOVERY"
-    type: socks5
-    server: 115.127.39.18
-    port: 6699
-    username: ECats
-    password: ECats
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 75 - DISCOVERY"
-    type: socks5
-    server: 115.127.106.158
-    port: 6699
-    username: ECats
-    password: ECats
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 76 - DISCOVERY"
-    type: socks5
-    server: 115.127.147.40
-    port: 6699
-    username: ECats
-    password: ECats
-
-  # ==========================================
-  # ðŸŒ TIMEPASSBD - Proxies for http://timepassbd.live
-  # ==========================================
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 2 - TIMEPASSBD"
-    type: socks5
-    server: 103.38.55.55
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 3 - TIMEPASSBD"
-    type: socks5
-    server: 103.166.253.94
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 17 - TIMEPASSBD"
-    type: socks5
-    server: 103.123.169.243
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 28 - TIMEPASSBD"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 28 - SAMFTP"
     type: socks5
     server: 116.206.91.65
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 41 - TIMEPASSBD"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 30 - SAMFTP"
+    type: socks5
+    server: 103.189.158.13
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 31 - SAMFTP"
+    type: socks5
+    server: 203.96.226.98
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 32 - SAMFTP"
+    type: socks5
+    server: 103.108.60.92
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 33 - SAMFTP"
+    type: socks5
+    server: 118.179.214.107
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 34 - SAMFTP"
+    type: socks5
+    server: 203.190.8.8
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 39 - SAMFTP"
+    type: socks5
+    server: 103.197.48.154
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 40 - SAMFTP"
+    type: socks5
+    server: 103.108.60.173
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 41 - SAMFTP"
     type: socks5
     server: 103.166.253.92
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 45 - TIMEPASSBD"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 44 - SAMFTP"
+    type: socks5
+    server: 103.84.252.97
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 45 - SAMFTP"
     type: socks5
     server: 103.199.155.186
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 62 - TIMEPASSBD"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 46 - SAMFTP"
+    type: socks5
+    server: 203.190.9.73
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 48 - SAMFTP"
+    type: socks5
+    server: 123.253.96.148
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 49 - SAMFTP"
+    type: socks5
+    server: 202.4.105.122
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 50 - SAMFTP"
+    type: socks5
+    server: 103.245.96.21
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 61 - SAMFTP"
+    type: socks5
+    server: 122.102.35.105
+    port: 1080
+    username: user1
+    password: user1
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 62 - SAMFTP"
     type: socks5
     server: 103.179.154.27
     port: 1080
     username: ECats@dx
     password: ECats@dx
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 65 - SAMFTP"
+    type: socks5
+    server: 118.179.197.30
+    port: 9090
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 69 - SAMFTP"
+    type: socks5
+    server: 115.127.107.106
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 73 - SAMFTP"
+    type: socks5
+    server: 115.127.39.18
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 75 - SAMFTP"
+    type: socks5
+    server: 115.127.106.158
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 76 - SAMFTP"
+    type: socks5
+    server: 115.127.147.40
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 77 - SAMFTP"
+    type: socks5
+    server: 118.179.81.98
+    port: 6699
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 78 - SAMFTP"
+    type: socks5
+    server: 118.179.101.117
+    port: 6699
+    username: test9
+    password: test9
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 79 - SAMFTP"
+    type: socks5
+    server: 103.4.64.163
+    port: 6969
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 80 - SAMFTP"
+    type: socks5
+    server: 123.253.37.149
+    port: 6699
+    username: ECats
+    password: ECats
 
   # ==========================================
   # ðŸŒ SHOWTIME - Proxies for http://showtimebd.com
   # ==========================================
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 1 - SHOWTIME"
+    type: socks5
+    server: 103.126.23.222
+    port: 1088
+    username: test
+    password: test
   - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 2 - SHOWTIME"
     type: socks5
     server: 103.38.55.55
@@ -1060,15 +1479,15 @@ proxies:
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 38 - SHOWTIME"
-    type: socks5
-    server: 103.140.25.10
-    port: 1088
-    username: test
-    password: test
   - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 39 - SHOWTIME"
     type: socks5
     server: 103.197.48.154
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 38 - SHOWTIME"
+    type: socks5
+    server: 103.140.25.10
     port: 1088
     username: test
     password: test
@@ -1276,15 +1695,15 @@ proxies:
     port: 9090
     username: MX
     password: XM
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 105 - SHOWTIME"
-    type: socks5
-    server: 43.243.204.181
-    port: 9090
-    username: MX
-    password: XM
   - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 106 - SHOWTIME"
     type: socks5
     server: 43.243.204.193
+    port: 9090
+    username: MX
+    password: XM
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 105 - SHOWTIME"
+    type: socks5
+    server: 43.243.204.181
     port: 9090
     username: MX
     password: XM
@@ -1324,27 +1743,9 @@ proxies:
     port: 9090
     username: MX
     password: XM
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 114 - SHOWTIME"
-    type: socks5
-    server: 119.40.93.154
-    port: 9090
-    username: MX
-    password: XM
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 115 - SHOWTIME"
-    type: socks5
-    server: 119.40.93.154
-    port: 9090
-    username: MX
-    password: XM
   - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 117 - SHOWTIME"
     type: socks5
     server: 210.4.66.62
-    port: 9090
-    username: MX
-    password: XM
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 116 - SHOWTIME"
-    type: socks5
-    server: 119.40.93.154
     port: 9090
     username: MX
     password: XM
@@ -1390,285 +1791,227 @@ proxies:
     port: 1052
     username: ras
     password: ras
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 123 - SHOWTIME"
-    type: socks5
-    server: 210.4.76.163
-    port: 9090
-    username: MX
-    password: XM
 
   # ==========================================
-  # ðŸŒ SAMFTP - Proxies for http://10.16.100.244
+  # ðŸŒ TIMEPASSBD - Proxies for http://timepassbd.live
   # ==========================================
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 2 - SAMFTP"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 2 - TIMEPASSBD"
     type: socks5
     server: 103.38.55.55
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 3 - SAMFTP"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 3 - TIMEPASSBD"
     type: socks5
     server: 103.166.253.94
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 6 - SAMFTP"
-    type: socks5
-    server: 103.108.60.35
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 7 - SAMFTP"
-    type: socks5
-    server: 103.84.252.101
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 8 - SAMFTP"
-    type: socks5
-    server: 123.253.96.249
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 10 - SAMFTP"
-    type: socks5
-    server: 118.179.158.241
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 13 - SAMFTP"
-    type: socks5
-    server: 180.148.214.52
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 15 - SAMFTP"
-    type: socks5
-    server: 103.159.218.218
-    port: 1920
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 16 - SAMFTP"
-    type: socks5
-    server: 43.229.210.8
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 17 - SAMFTP"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 17 - TIMEPASSBD"
     type: socks5
     server: 103.123.169.243
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 22 - SAMFTP"
-    type: socks5
-    server: 103.71.46.197
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 23 - SAMFTP"
-    type: socks5
-    server: 202.144.201.98
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 28 - SAMFTP"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 28 - TIMEPASSBD"
     type: socks5
     server: 116.206.91.65
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 30 - SAMFTP"
-    type: socks5
-    server: 103.189.158.13
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 31 - SAMFTP"
-    type: socks5
-    server: 203.96.226.98
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 33 - SAMFTP"
-    type: socks5
-    server: 118.179.214.107
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 32 - SAMFTP"
-    type: socks5
-    server: 103.108.60.92
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 34 - SAMFTP"
-    type: socks5
-    server: 203.190.8.8
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 39 - SAMFTP"
-    type: socks5
-    server: 103.197.48.154
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 40 - SAMFTP"
-    type: socks5
-    server: 103.108.60.173
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 41 - SAMFTP"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 41 - TIMEPASSBD"
     type: socks5
     server: 103.166.253.92
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 44 - SAMFTP"
-    type: socks5
-    server: 103.84.252.97
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 45 - SAMFTP"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 45 - TIMEPASSBD"
     type: socks5
     server: 103.199.155.186
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 46 - SAMFTP"
-    type: socks5
-    server: 203.190.9.73
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 48 - SAMFTP"
-    type: socks5
-    server: 123.253.96.148
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 49 - SAMFTP"
-    type: socks5
-    server: 202.4.105.122
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 50 - SAMFTP"
-    type: socks5
-    server: 103.245.96.21
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 61 - SAMFTP"
-    type: socks5
-    server: 122.102.35.105
-    port: 1080
-    username: user1
-    password: user1
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 62 - SAMFTP"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 62 - TIMEPASSBD"
     type: socks5
     server: 103.179.154.27
     port: 1080
     username: ECats@dx
     password: ECats@dx
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 65 - SAMFTP"
-    type: socks5
-    server: 118.179.197.30
-    port: 9090
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 69 - SAMFTP"
-    type: socks5
-    server: 115.127.107.106
-    port: 6699
-    username: ECats
-    password: ECats
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 73 - SAMFTP"
-    type: socks5
-    server: 115.127.39.18
-    port: 6699
-    username: ECats
-    password: ECats
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 75 - SAMFTP"
-    type: socks5
-    server: 115.127.106.158
-    port: 6699
-    username: ECats
-    password: ECats
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 76 - SAMFTP"
-    type: socks5
-    server: 115.127.147.40
-    port: 6699
-    username: ECats
-    password: ECats
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 77 - SAMFTP"
-    type: socks5
-    server: 118.179.81.98
-    port: 6699
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 78 - SAMFTP"
-    type: socks5
-    server: 118.179.101.117
-    port: 6699
-    username: test9
-    password: test9
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 79 - SAMFTP"
-    type: socks5
-    server: 103.4.64.163
-    port: 6969
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 80 - SAMFTP"
-    type: socks5
-    server: 123.253.37.149
-    port: 6699
-    username: ECats
-    password: ECats
 
   # ==========================================
-  # ðŸŒ EBOX - Proxies for http://play.ebox.live
+  # ðŸŒ EBOXFS - Proxies for http://fs.ebox.live
   # ==========================================
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 2 - EBOX"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 2 - EBOXFS"
     type: socks5
     server: 103.38.55.55
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 3 - EBOX"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 3 - EBOXFS"
     type: socks5
     server: 103.166.253.94
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 17 - EBOX"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 17 - EBOXFS"
     type: socks5
     server: 103.123.169.243
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 23 - EBOX"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 23 - EBOXFS"
     type: socks5
     server: 202.144.201.98
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 28 - EBOX"
-    type: socks5
-    server: 116.206.91.65
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 41 - EBOX"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 41 - EBOXFS"
     type: socks5
     server: 103.166.253.92
     port: 1088
     username: test
     password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 125 - EBOX"
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 125 - EBOXFS"
+    type: socks5
+    server: 43.224.116.21
+    port: 1052
+    username: ras
+    password: ras
+
+  # ==========================================
+  # ðŸŒ DISCOVERY - Proxies for https://discoveryftp.net
+  # ==========================================
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 2 - DISCOVERY"
+    type: socks5
+    server: 103.38.55.55
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 3 - DISCOVERY"
+    type: socks5
+    server: 103.166.253.94
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 9 - DISCOVERY"
+    type: socks5
+    server: 103.197.48.198
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 17 - DISCOVERY"
+    type: socks5
+    server: 103.123.169.243
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 21 - DISCOVERY"
+    type: socks5
+    server: 58.84.33.11
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 25 - DISCOVERY"
+    type: socks5
+    server: 103.129.200.102
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 26 - DISCOVERY"
+    type: socks5
+    server: 103.197.48.126
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 35 - DISCOVERY"
+    type: socks5
+    server: 103.254.167.18
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 41 - DISCOVERY"
+    type: socks5
+    server: 103.166.253.92
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 42 - DISCOVERY"
+    type: socks5
+    server: 103.129.200.173
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 62 - DISCOVERY"
+    type: socks5
+    server: 103.179.154.27
+    port: 1080
+    username: ECats@dx
+    password: ECats@dx
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 69 - DISCOVERY"
+    type: socks5
+    server: 115.127.107.106
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 73 - DISCOVERY"
+    type: socks5
+    server: 115.127.39.18
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 75 - DISCOVERY"
+    type: socks5
+    server: 115.127.106.158
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 76 - DISCOVERY"
+    type: socks5
+    server: 115.127.147.40
+    port: 6699
+    username: ECats
+    password: ECats
+
+  # ==========================================
+  # ðŸŒ EBOXPLAY - Proxies for http://play.ebox.live
+  # ==========================================
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 2 - EBOXPLAY"
+    type: socks5
+    server: 103.38.55.55
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 3 - EBOXPLAY"
+    type: socks5
+    server: 103.166.253.94
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 17 - EBOXPLAY"
+    type: socks5
+    server: 103.123.169.243
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 23 - EBOXPLAY"
+    type: socks5
+    server: 202.144.201.98
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 28 - EBOXPLAY"
+    type: socks5
+    server: 116.206.91.65
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 41 - EBOXPLAY"
+    type: socks5
+    server: 103.166.253.92
+    port: 1088
+    username: test
+    password: test
+  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 125 - EBOXPLAY"
     type: socks5
     server: 43.224.116.21
     port: 1052
@@ -1804,352 +2147,6 @@ proxies:
     port: 6699
     username: ECats
     password: ECats
-
-  # ==========================================
-  # ðŸŒ FTPBD - Proxies for https://ftpbd.net
-  # ==========================================
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 6 - FTPBD"
-    type: socks5
-    server: 103.108.60.35
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 7 - FTPBD"
-    type: socks5
-    server: 103.84.252.101
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 8 - FTPBD"
-    type: socks5
-    server: 123.253.96.249
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 9 - FTPBD"
-    type: socks5
-    server: 103.197.48.198
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 10 - FTPBD"
-    type: socks5
-    server: 118.179.158.241
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 12 - FTPBD"
-    type: socks5
-    server: 203.76.148.154
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 13 - FTPBD"
-    type: socks5
-    server: 180.148.214.52
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 15 - FTPBD"
-    type: socks5
-    server: 103.159.218.218
-    port: 1920
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 16 - FTPBD"
-    type: socks5
-    server: 43.229.210.8
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 20 - FTPBD"
-    type: socks5
-    server: 103.122.252.94
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 21 - FTPBD"
-    type: socks5
-    server: 58.84.33.11
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 22 - FTPBD"
-    type: socks5
-    server: 103.71.46.197
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 23 - FTPBD"
-    type: socks5
-    server: 202.144.201.98
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 25 - FTPBD"
-    type: socks5
-    server: 103.129.200.102
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 26 - FTPBD"
-    type: socks5
-    server: 103.197.48.126
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 27 - FTPBD"
-    type: socks5
-    server: 103.81.104.161
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 29 - FTPBD"
-    type: socks5
-    server: 103.81.104.206
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 28 - FTPBD"
-    type: socks5
-    server: 116.206.91.65
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 30 - FTPBD"
-    type: socks5
-    server: 103.189.158.13
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 31 - FTPBD"
-    type: socks5
-    server: 203.96.226.98
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 32 - FTPBD"
-    type: socks5
-    server: 103.108.60.92
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 33 - FTPBD"
-    type: socks5
-    server: 118.179.214.107
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 34 - FTPBD"
-    type: socks5
-    server: 203.190.8.8
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 35 - FTPBD"
-    type: socks5
-    server: 103.254.167.18
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 36 - FTPBD"
-    type: socks5
-    server: 103.30.29.204
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 37 - FTPBD"
-    type: socks5
-    server: 123.49.39.120
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 38 - FTPBD"
-    type: socks5
-    server: 103.140.25.10
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 39 - FTPBD"
-    type: socks5
-    server: 103.197.48.154
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 40 - FTPBD"
-    type: socks5
-    server: 103.108.60.173
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 42 - FTPBD"
-    type: socks5
-    server: 103.129.200.173
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 43 - FTPBD"
-    type: socks5
-    server: 103.122.254.33
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 44 - FTPBD"
-    type: socks5
-    server: 103.84.252.97
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 45 - FTPBD"
-    type: socks5
-    server: 103.199.155.186
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 46 - FTPBD"
-    type: socks5
-    server: 203.190.9.73
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 47 - FTPBD"
-    type: socks5
-    server: 220.247.165.129
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 48 - FTPBD"
-    type: socks5
-    server: 123.253.96.148
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 49 - FTPBD"
-    type: socks5
-    server: 202.4.105.122
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 50 - FTPBD"
-    type: socks5
-    server: 103.245.96.21
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 51 - FTPBD"
-    type: socks5
-    server: 103.81.104.177
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 52 - FTPBD"
-    type: socks5
-    server: 103.91.231.244
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 53 - FTPBD"
-    type: socks5
-    server: 103.186.238.1
-    port: 9169
-    username: true
-    password: true
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 61 - FTPBD"
-    type: socks5
-    server: 122.102.35.105
-    port: 1080
-    username: user1
-    password: user1
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 62 - FTPBD"
-    type: socks5
-    server: 103.179.154.27
-    port: 1080
-    username: ECats@dx
-    password: ECats@dx
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 63 - FTPBD"
-    type: socks5
-    server: 115.127.192.158
-    port: 9966
-    username: Admintest
-    password: Admintest
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 64 - FTPBD"
-    type: socks5
-    server: 103.126.23.240
-    port: 1080
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 65 - FTPBD"
-    type: socks5
-    server: 118.179.197.30
-    port: 9090
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 70 - FTPBD"
-    type: socks5
-    server: 49.0.46.98
-    port: 1080
-    username: Admintest
-    password: Admintest
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 72 - FTPBD"
-    type: socks5
-    server: 180.211.169.46
-    port: 1080
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 77 - FTPBD"
-    type: socks5
-    server: 118.179.81.98
-    port: 6699
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 78 - FTPBD"
-    type: socks5
-    server: 118.179.101.117
-    port: 6699
-    username: test9
-    password: test9
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 79 - FTPBD"
-    type: socks5
-    server: 103.4.64.163
-    port: 6969
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 80 - FTPBD"
-    type: socks5
-    server: 123.253.37.149
-    port: 6699
-    username: ECats
-    password: ECats
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 81 - FTPBD"
-    type: socks5
-    server: 49.0.39.182
-    port: 1080
-    username: Admintest
-    password: Admintest
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 83 - FTPBD"
-    type: socks5
-    server: 45.125.220.223
-    port: 1052
-    username: test
-    password: test
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 94 - FTPBD"
-    type: socks5
-    server: 103.218.27.66
-    port: 1052
-    username: ras
-    password: ras
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 95 - FTPBD"
-    type: socks5
-    server: 103.218.27.67
-    port: 1052
-    username: ras
-    password: ras
-  - name: "ðŸŒ¬ï¸ ðŸŒ¬ï¸ Cats 125 - FTPBD"
-    type: socks5
-    server: 43.224.116.21
-    port: 1052
-    username: ras
-    password: ras
 
   # ==========================================
   # ðŸŒ CTGHALL - Proxies for https://ctghall.com
