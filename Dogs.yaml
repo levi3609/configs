@@ -366,20 +366,6 @@ proxies:
     username: test
     password: test
 
-  - name: "Premium Proxy 52 - FTP[Not Tested]"
-    type: socks5
-    server: 103.91.231.244
-    port: 1088
-    username: test
-    password: test
-
-  - name: "Premium Proxy 53 - FTP[CircleFTP]"
-    type: socks5
-    server: 103.186.238.1
-    port: 9169
-    username: loki
-    password: loki
-
   - name: "Premium Proxy 54 - FTP[Not Tested]"
     type: http
     server: 182.160.124.174
