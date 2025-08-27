@@ -377,8 +377,8 @@ proxies:
     type: socks5
     server: 103.186.238.1
     port: 9169
-    username: true
-    password: true
+    username: test
+    password: test
 
   - name: "Premium Proxy 54 - FTP[Not Tested]"
     type: http
