@@ -1,1931 +1,862 @@
+# Provider.yaml - Proxies with FTP service information
+# Generated: 2025-08-27 22:19:12
+# Based on: Cati.yaml
+# URLs tested: 2
+# Successful proxies: 35
+#
+# This file contains proxies with FTP service information in their names
+# Similar to the original provider.yaml structure
+#
+
 proxies:
-  # ==========================================
-  # ðŸŒ ALL DOGS - All Working Proxies
-  # ==========================================
-  - name: "ðŸ¶ ðŸ¶ Dogs 2 - ALL DOGS"
-    type: socks5
-    server: 103.38.55.55
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 3 - ALL DOGS"
-    type: socks5
-    server: 103.166.253.94
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 1 - ALL DOGS"
+  - name: "Premium Proxy 1 - FTP[Not Tested]"
     type: socks5
     server: 103.126.23.222
     port: 1088
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 6 - ALL DOGS"
+
+  - name: "Premium Proxy 2 - FTP[Nagordola]"
+    type: socks5
+    server: 103.38.55.55
+    port: 1088
+    username: test
+    password: test
+
+  - name: "Premium Proxy 3 - FTP[Nagordola]"
+    type: socks5
+    server: 103.166.253.94
+    port: 1088
+    username: test
+    password: test
+
+  - name: "Premium Proxy 4 - FTP[Not Tested]"
+    type: socks5
+    server: 103.186.238.9
+    port: 1088
+    username: test
+    password: test
+
+  - name: "Premium Proxy 5 - FTP[Not Tested]"
+    type: socks5
+    server: 103.111.225.73
+    port: 1088
+    username: test
+    password: test
+
+  - name: "Premium Proxy 6 - FTP[Nagordola, CircleFTP]"
     type: socks5
     server: 103.108.60.35
     port: 1088
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 7 - ALL DOGS"
+
+  - name: "Premium Proxy 7 - FTP[Not Tested]"
     type: socks5
     server: 103.84.252.101
     port: 1088
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 9 - ALL DOGS"
-    type: socks5
-    server: 103.197.48.198
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 10 - ALL DOGS"
-    type: socks5
-    server: 118.179.158.241
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 8 - ALL DOGS"
+
+  - name: "Premium Proxy 8 - FTP[Not Tested]"
     type: socks5
     server: 123.253.96.249
     port: 1088
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 12 - ALL DOGS"
+
+  - name: "Premium Proxy 9 - FTP[Nagordola, CircleFTP]"
     type: socks5
-    server: 203.76.148.154
+    server: 103.197.48.198
     port: 1088
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 13 - ALL DOGS"
+
+  - name: "Premium Proxy 10 - FTP[Not Tested]"
     type: socks5
-    server: 180.148.214.52
+    server: 118.179.158.241
     port: 1088
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 11 - ALL DOGS"
+
+  - name: "Premium Proxy 11 - FTP[Not Tested]"
     type: socks5
     server: 43.243.205.58
     port: 1088
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 15 - ALL DOGS"
+
+  - name: "Premium Proxy 12 - FTP[Not Tested]"
+    type: socks5
+    server: 203.76.148.154
+    port: 1088
+    username: test
+    password: test
+
+  - name: "Premium Proxy 13 - FTP[Nagordola]"
+    type: socks5
+    server: 180.148.214.52
+    port: 1088
+    username: test
+    password: test
+
+  - name: "Premium Proxy 14 - FTP[Not Tested]"
+    type: socks5
+    server: 103.186.238.8
+    port: 1088
+    username: test
+    password: test
+
+  - name: "Premium Proxy 15 - FTP[Nagordola]"
     type: socks5
     server: 103.159.218.218
     port: 1920
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 16 - ALL DOGS"
+
+  - name: "Premium Proxy 16 - FTP[Nagordola]"
     type: socks5
     server: 43.229.210.8
     port: 1088
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 17 - ALL DOGS"
+
+  - name: "Premium Proxy 17 - FTP[Nagordola]"
     type: socks5
     server: 103.123.169.243
     port: 1088
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 20 - ALL DOGS"
+
+  - name: "Premium Proxy 18 - FTP[Not Tested]"
+    type: socks5
+    server: 45.114.85.161
+    port: 1088
+    username: test
+    password: test
+
+  - name: "Premium Proxy 19 - FTP[Not Tested]"
+    type: socks5
+    server: 27.147.141.162
+    port: 1088
+    username: test
+    password: test
+
+  - name: "Premium Proxy 20 - FTP[Nagordola, CircleFTP]"
     type: socks5
     server: 103.122.252.94
     port: 1088
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 21 - ALL DOGS"
+
+  - name: "Premium Proxy 21 - FTP[Nagordola, CircleFTP]"
     type: socks5
     server: 58.84.33.11
     port: 1088
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 22 - ALL DOGS"
+
+  - name: "Premium Proxy 22 - FTP[Not Tested]"
     type: socks5
     server: 103.71.46.197
     port: 1088
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 23 - ALL DOGS"
+
+  - name: "Premium Proxy 23 - FTP[Nagordola, CircleFTP]"
     type: socks5
     server: 202.144.201.98
     port: 1088
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 25 - ALL DOGS"
+
+  - name: "Premium Proxy 24 - FTP[Not Tested]"
+    type: socks5
+    server: 182.48.79.78
+    port: 1088
+    username: test
+    password: test
+
+  - name: "Premium Proxy 25 - FTP[Nagordola, CircleFTP]"
     type: socks5
     server: 103.129.200.102
     port: 1088
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 26 - ALL DOGS"
+
+  - name: "Premium Proxy 26 - FTP[Nagordola, CircleFTP]"
     type: socks5
     server: 103.197.48.126
     port: 1088
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 28 - ALL DOGS"
+
+  - name: "Premium Proxy 27 - FTP[Nagordola]"
+    type: socks5
+    server: 103.81.104.161
+    port: 1088
+    username: test
+    password: test
+
+  - name: "Premium Proxy 28 - FTP[CircleFTP]"
     type: socks5
     server: 116.206.91.65
     port: 1088
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 30 - ALL DOGS"
-    type: socks5
-    server: 103.189.158.13
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 31 - ALL DOGS"
-    type: socks5
-    server: 203.96.226.98
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 29 - ALL DOGS"
+
+  - name: "Premium Proxy 29 - FTP[Nagordola]"
     type: socks5
     server: 103.81.104.206
     port: 1088
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 33 - ALL DOGS"
+
+  - name: "Premium Proxy 30 - FTP[Nagordola, CircleFTP]"
     type: socks5
-    server: 118.179.214.107
+    server: 103.189.158.13
     port: 1088
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 32 - ALL DOGS"
+
+  - name: "Premium Proxy 31 - FTP[Nagordola, CircleFTP]"
+    type: socks5
+    server: 203.96.226.98
+    port: 1088
+    username: test
+    password: test
+
+  - name: "Premium Proxy 32 - FTP[Nagordola, CircleFTP]"
     type: socks5
     server: 103.108.60.92
     port: 1088
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 34 - ALL DOGS"
+
+  - name: "Premium Proxy 33 - FTP[Not Tested]"
+    type: socks5
+    server: 118.179.214.107
+    port: 1088
+    username: test
+    password: test
+
+  - name: "Premium Proxy 34 - FTP[Not Tested]"
     type: socks5
     server: 203.190.8.8
     port: 1088
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 35 - ALL DOGS"
+
+  - name: "Premium Proxy 35 - FTP[Nagordola, CircleFTP]"
     type: socks5
     server: 103.254.167.18
     port: 1088
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 36 - ALL DOGS"
+
+  - name: "Premium Proxy 36 - FTP[Nagordola]"
     type: socks5
     server: 103.30.29.204
     port: 1088
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 37 - ALL DOGS"
+
+  - name: "Premium Proxy 37 - FTP[Not Tested]"
     type: socks5
     server: 123.49.39.120
     port: 1088
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 38 - ALL DOGS"
+
+  - name: "Premium Proxy 38 - FTP[Nagordola]"
     type: socks5
     server: 103.140.25.10
     port: 1088
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 39 - ALL DOGS"
+
+  - name: "Premium Proxy 39 - FTP[Not Tested]"
     type: socks5
     server: 103.197.48.154
     port: 1088
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 40 - ALL DOGS"
+
+  - name: "Premium Proxy 40 - FTP[Nagordola, CircleFTP]"
     type: socks5
     server: 103.108.60.173
     port: 1088
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 41 - ALL DOGS"
+
+  - name: "Premium Proxy 41 - FTP[Not Tested]"
     type: socks5
     server: 103.166.253.92
     port: 1088
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 42 - ALL DOGS"
+
+  - name: "Premium Proxy 42 - FTP[Nagordola, CircleFTP]"
     type: socks5
     server: 103.129.200.173
     port: 1088
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 43 - ALL DOGS"
+
+  - name: "Premium Proxy 43 - FTP[Nagordola, CircleFTP]"
     type: socks5
     server: 103.122.254.33
     port: 1088
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 44 - ALL DOGS"
+
+  - name: "Premium Proxy 44 - FTP[Not Tested]"
     type: socks5
     server: 103.84.252.97
     port: 1088
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 45 - ALL DOGS"
+
+  - name: "Premium Proxy 45 - FTP[Not Tested]"
     type: socks5
     server: 103.199.155.186
     port: 1088
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 46 - ALL DOGS"
+
+  - name: "Premium Proxy 46 - FTP[Nagordola]"
     type: socks5
     server: 203.190.9.73
     port: 1088
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 47 - ALL DOGS"
+
+  - name: "Premium Proxy 47 - FTP[Not Tested]"
     type: socks5
     server: 220.247.165.129
     port: 1088
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 48 - ALL DOGS"
+
+  - name: "Premium Proxy 48 - FTP[Not Tested]"
     type: socks5
     server: 123.253.96.148
     port: 1088
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 49 - ALL DOGS"
+
+  - name: "Premium Proxy 49 - FTP[Not Tested]"
     type: socks5
     server: 202.4.105.122
     port: 1088
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 50 - ALL DOGS"
+
+  - name: "Premium Proxy 50 - FTP[Not Tested]"
     type: socks5
     server: 103.245.96.21
     port: 1088
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 51 - ALL DOGS"
+
+  - name: "Premium Proxy 51 - FTP[Nagordola]"
     type: socks5
     server: 103.81.104.177
     port: 1088
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 52 - ALL DOGS"
+
+  - name: "Premium Proxy 52 - FTP[Not Tested]"
     type: socks5
     server: 103.91.231.244
     port: 1088
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 53 - ALL DOGS"
+
+  - name: "Premium Proxy 53 - FTP[CircleFTP]"
     type: socks5
     server: 103.186.238.1
     port: 9169
     username: true
     password: true
-  - name: "ðŸ¶ ðŸ¶ Dogs 61 - ALL DOGS"
+
+  - name: "Premium Proxy 54 - FTP[Not Tested]"
+    type: http
+    server: 182.160.124.174
+    port: 9669
+
+  - name: "Premium Proxy 55 - FTP[Not Tested]"
+    type: http
+    server: 27.147.163.188
+    port: 40544
+
+  - name: "Premium Proxy 56 - FTP[Not Tested]"
+    type: http
+    server: 103.40.226.126
+    port: 26100
+
+  - name: "Premium Proxy 57 - FTP[Not Tested]"
+    type: http
+    server: 202.40.178.218
+    port: 17209
+
+  - name: "Premium Proxy 58 - FTP[Not Tested]"
+    type: http
+    server: 121.200.63.205
+    port: 8742
+
+  - name: "Premium Proxy 59 - FTP[Not Tested]"
+    type: http
+    server: 121.200.61.221
+    port: 6565
+
+  - name: "Premium Proxy 60 - FTP[Not Tested]"
+    type: http
+    server: 45.115.112.138
+    port: 7675
+
+  - name: "Premium Proxy 61 - FTP[Not Tested]"
     type: socks5
     server: 122.102.35.105
     port: 1080
     username: user1
     password: user1
-  - name: "ðŸ¶ ðŸ¶ Dogs 62 - ALL DOGS"
+
+  - name: "Premium Proxy 62 - FTP[CircleFTP]"
     type: socks5
     server: 103.179.154.27
     port: 1080
-    username: EDogs@dx
-    password: EDogs@dx
-  - name: "ðŸ¶ ðŸ¶ Dogs 63 - ALL DOGS"
+    username: ECats@dx
+    password: ECats@dx
+
+  - name: "Premium Proxy 63 - FTP[Not Tested]"
     type: socks5
     server: 115.127.192.158
     port: 9966
     username: Admintest
     password: Admintest
-  - name: "ðŸ¶ ðŸ¶ Dogs 64 - ALL DOGS"
+
+  - name: "Premium Proxy 64 - FTP[Nagordola]"
     type: socks5
     server: 103.126.23.240
     port: 1080
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 65 - ALL DOGS"
+
+  - name: "Premium Proxy 65 - FTP[Not Tested]"
     type: socks5
     server: 118.179.197.30
     port: 9090
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 69 - ALL DOGS"
+
+  - name: "Premium Proxy 66 - FTP[Not Tested]"
+    type: socks5
+    server: 118.179.201.124
+    port: 6699
+
+  - name: "Premium Proxy 67 - FTP[Not Tested]"
+    type: socks5
+    server: 118.179.205.26
+    port: 6699
+
+  - name: "Premium Proxy 68 - FTP[Not Tested]"
+    type: socks5
+    server: 202.4.114.56
+    port: 6699
+
+  - name: "Premium Proxy 69 - FTP[Nagordola, CircleFTP]"
     type: socks5
     server: 115.127.107.106
     port: 6699
-    username: EDogs
-    password: EDogs
-  - name: "ðŸ¶ ðŸ¶ Dogs 70 - ALL DOGS"
+    username: ECats
+    password: ECats
+
+  - name: "Premium Proxy 70 - FTP[Not Tested]"
     type: socks5
     server: 49.0.46.98
     port: 1080
     username: Admintest
     password: Admintest
-  - name: "ðŸ¶ ðŸ¶ Dogs 72 - ALL DOGS"
+
+  - name: "Premium Proxy 71 - FTP[Not Tested]"
+    type: socks5
+    server: 202.4.125.208
+    port: 6699
+
+  - name: "Premium Proxy 72 - FTP[Not Tested]"
     type: socks5
     server: 180.211.169.46
     port: 1080
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 73 - ALL DOGS"
+
+  - name: "Premium Proxy 73 - FTP[Nagordola, CircleFTP]"
     type: socks5
     server: 115.127.39.18
     port: 6699
-    username: EDogs
-    password: EDogs
-  - name: "ðŸ¶ ðŸ¶ Dogs 75 - ALL DOGS"
+    username: ECats
+    password: ECats
+
+  - name: "Premium Proxy 74 - FTP[Not Tested]"
+    type: http
+    server: 118.179.152.102
+    port: 9999
+
+  - name: "Premium Proxy 75 - FTP[Nagordola, CircleFTP]"
     type: socks5
     server: 115.127.106.158
     port: 6699
-    username: EDogs
-    password: EDogs
-  - name: "ðŸ¶ ðŸ¶ Dogs 76 - ALL DOGS"
+    username: ECats
+    password: ECats
+
+  - name: "Premium Proxy 76 - FTP[Nagordola, CircleFTP]"
     type: socks5
     server: 115.127.147.40
     port: 6699
-    username: EDogs
-    password: EDogs
-  - name: "ðŸ¶ ðŸ¶ Dogs 78 - ALL DOGS"
-    type: socks5
-    server: 118.179.101.117
-    port: 6699
-    username: test9
-    password: test9
-  - name: "ðŸ¶ ðŸ¶ Dogs 77 - ALL DOGS"
+    username: ECats
+    password: ECats
+
+  - name: "Premium Proxy 77 - FTP[Not Tested]"
     type: socks5
     server: 118.179.81.98
     port: 6699
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 79 - ALL DOGS"
+
+  - name: "Premium Proxy 78 - FTP[Not Tested]"
+    type: socks5
+    server: 118.179.101.117
+    port: 6699
+    username: test9
+    password: test9
+
+  - name: "Premium Proxy 79 - FTP[Not Tested]"
     type: socks5
     server: 103.4.64.163
     port: 6969
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 80 - ALL DOGS"
+
+  - name: "Premium Proxy 80 - FTP[Nagordola]"
     type: socks5
     server: 123.253.37.149
     port: 6699
-    username: EDogs
-    password: EDogs
-  - name: "ðŸ¶ ðŸ¶ Dogs 81 - ALL DOGS"
+    username: ECats
+    password: ECats
+
+  - name: "Premium Proxy 81 - FTP[Not Tested]"
     type: socks5
     server: 49.0.39.182
     port: 1080
     username: Admintest
     password: Admintest
-  - name: "ðŸ¶ ðŸ¶ Dogs 83 - ALL DOGS"
+
+  - name: "Premium Proxy 82 - FTP[Not Tested]"
+    type: socks5
+    server: 45.125.220.114
+    port: 1088
+    username: test
+    password: test
+
+  - name: "Premium Proxy 83 - FTP[Not Tested]"
     type: socks5
     server: 45.125.220.223
     port: 1052
     username: test
     password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 94 - ALL DOGS"
+
+  - name: "Premium Proxy 84 - FTP[Not Tested]"
+    type: socks5
+    server: 45.125.223.105
+    port: 1088
+    username: test
+    password: test
+
+  - name: "Premium Proxy 85 - FTP[Not Tested]"
+    type: socks5
+    server: 45.249.102.102
+    port: 1080
+    username: test
+    password: test
+
+  - name: "Premium Proxy 86 - FTP[Not Tested]"
+    type: socks5
+    server: 103.48.161.132
+    port: 1088
+    username: test
+    password: test
+
+  - name: "Premium Proxy 87 - FTP[Not Tested]"
+    type: socks5
+    server: 103.106.236.156
+    port: 1088
+    username: test
+    password: test
+
+  - name: "Premium Proxy 88 - FTP[Not Tested]"
+    type: socks5
+    server: 103.112.53.37
+    port: 1088
+    username: test
+    password: test
+
+  - name: "Premium Proxy 89 - FTP[Not Tested]"
+    type: socks5
+    server: 103.112.53.106
+    port: 1088
+    username: test
+    password: test
+
+  - name: "Premium Proxy 90 - FTP[Not Tested]"
+    type: socks5
+    server: 103.112.54.130
+    port: 1088
+    username: test
+    password: test
+
+  - name: "Premium Proxy 91 - FTP[Not Tested]"
+    type: socks5
+    server: 103.122.142.210
+    port: 1080
+    username: test
+    password: test
+
+  - name: "Premium Proxy 92 - FTP[Not Tested]"
+    type: socks5
+    server: 103.218.24.234
+    port: 1088
+    username: test
+    password: test
+
+  - name: "Premium Proxy 93 - FTP[Not Tested]"
+    type: socks5
+    server: 160.22.21.161
+    port: 1080
+    username: test
+    password: test
+
+  - name: "Premium Proxy 94 - FTP[Not Tested]"
     type: socks5
     server: 103.218.27.66
     port: 1052
     username: ras
     password: ras
-  - name: "ðŸ¶ ðŸ¶ Dogs 95 - ALL DOGS"
+
+  - name: "Premium Proxy 95 - FTP[Not Tested]"
     type: socks5
     server: 103.218.27.67
     port: 1052
     username: ras
     password: ras
-  - name: "ðŸ¶ ðŸ¶ Dogs 104 - ALL DOGS"
+
+  - name: "Premium Proxy 96 - FTP[Not Tested]"
+    type: socks5
+    server: 45.249.102.93
+    port: 1088
+    username: test
+    password: test123
+
+  - name: "Premium Proxy 97 - FTP[Not Tested]"
+    type: socks5
+    server: 103.101.197.73
+    port: 10888
+    username: test
+    password: test123
+
+  - name: "Premium Proxy 98 - FTP[Not Tested]"
+    type: socks5
+    server: 103.106.236.226
+    port: 10888
+    username: test
+    password: test123
+
+  - name: "Premium Proxy 99 - FTP[Not Tested]"
+    type: socks5
+    server: 103.112.52.187
+    port: 10888
+    username: test
+    password: test123
+
+  - name: "Premium Proxy 100 - FTP[Not Tested]"
+    type: socks5
+    server: 103.112.54.13
+    port: 10888
+    username: test
+    password: test123
+
+  - name: "Premium Proxy 101 - FTP[Not Tested]"
+    type: socks5
+    server: 103.120.202.73
+    port: 1088
+    username: test
+    password: test123
+
+  - name: "Premium Proxy 102 - FTP[Not Tested]"
+    type: socks5
+    server: 103.120.203.188
+    port: 1088
+    username: test
+    password: test123
+
+  - name: "Premium Proxy 103 - FTP[Not Tested]"
+    type: socks5
+    server: 103.120.203.190
+    port: 1088
+    username: test
+    password: test123
+
+  - name: "Premium Proxy 104 - FTP[Not Tested]"
     type: socks5
     server: 43.243.204.178
     port: 9090
     username: MX
     password: XM
-  - name: "ðŸ¶ ðŸ¶ Dogs 105 - ALL DOGS"
+
+  - name: "Premium Proxy 105 - FTP[Not Tested]"
     type: socks5
     server: 43.243.204.181
     port: 9090
     username: MX
     password: XM
-  - name: "ðŸ¶ ðŸ¶ Dogs 106 - ALL DOGS"
+
+  - name: "Premium Proxy 106 - FTP[Not Tested]"
     type: socks5
     server: 43.243.204.193
     port: 9090
     username: MX
     password: XM
-  - name: "ðŸ¶ ðŸ¶ Dogs 109 - ALL DOGS"
+
+  - name: "Premium Proxy 107 - FTP[Not Tested]"
+    type: socks5
+    server: 43.243.205.58
+    port: 1088
+    username: test
+    password: test
+
+  - name: "Premium Proxy 108 - FTP[Not Tested]"
+    type: socks5
+    server: 43.243.206.33
+    port: 10888
+    username: test
+    password: test123
+
+  - name: "Premium Proxy 109 - FTP[Not Tested]"
     type: socks5
     server: 119.40.82.113
     port: 9090
     username: MX
     password: XM
-  - name: "ðŸ¶ ðŸ¶ Dogs 110 - ALL DOGS"
+
+  - name: "Premium Proxy 110 - FTP[Not Tested]"
     type: socks5
     server: 119.40.83.153
     port: 9090
     username: MX
     password: XM
-  - name: "ðŸ¶ ðŸ¶ Dogs 111 - ALL DOGS"
+
+  - name: "Premium Proxy 111 - FTP[Not Tested]"
     type: socks5
     server: 119.40.89.138
     port: 9090
     username: MX
     password: XM
-  - name: "ðŸ¶ ðŸ¶ Dogs 114 - ALL DOGS"
+
+  - name: "Premium Proxy 112 - FTP[Not Tested]"
+    type: socks5
+    server: 119.40.89.138
+    port: 9090
+    username: 1
+    password: 1
+
+  - name: "Premium Proxy 113 - FTP[Not Tested]"
+    type: socks5
+    server: 119.40.89.138
+    port: 9090
+    username: 2
+    password: 2
+
+  - name: "Premium Proxy 114 - FTP[Not Tested]"
     type: socks5
     server: 119.40.93.154
     port: 9090
     username: MX
     password: XM
-  - name: "ðŸ¶ ðŸ¶ Dogs 117 - ALL DOGS"
+
+  - name: "Premium Proxy 115 - FTP[Not Tested]"
+    type: socks5
+    server: 119.40.93.154
+    port: 9090
+    username: 1
+    password: 1
+
+  - name: "Premium Proxy 116 - FTP[Not Tested]"
+    type: socks5
+    server: 119.40.93.154
+    port: 9090
+    username: 2
+    password: 2
+
+  - name: "Premium Proxy 117 - FTP[Not Tested]"
     type: socks5
     server: 210.4.66.62
     port: 9090
     username: MX
     password: XM
-  - name: "ðŸ¶ ðŸ¶ Dogs 118 - ALL DOGS"
+
+  - name: "Premium Proxy 118 - FTP[Not Tested]"
     type: socks5
     server: 210.4.66.150
     port: 9090
     username: MX
     password: XM
-  - name: "ðŸ¶ ðŸ¶ Dogs 119 - ALL DOGS"
+
+  - name: "Premium Proxy 119 - FTP[Not Tested]"
     type: socks5
     server: 210.4.67.65
     port: 9090
     username: MX
     password: XM
-  - name: "ðŸ¶ ðŸ¶ Dogs 122 - ALL DOGS"
+
+  - name: "Premium Proxy 120 - FTP[Not Tested]"
+    type: socks5
+    server: 210.4.73.114
+    port: 9090
+    username: mx
+    password: xm
+
+  - name: "Premium Proxy 121 - FTP[Not Tested]"
+    type: socks5
+    server: 210.4.74.129
+    port: 9090
+    username: mx
+    password: xm
+
+  - name: "Premium Proxy 122 - FTP[Not Tested]"
     type: socks5
     server: 210.4.75.185
     port: 9090
     username: MX
     password: XM
-  - name: "ðŸ¶ ðŸ¶ Dogs 124 - ALL DOGS"
+
+  - name: "Premium Proxy 123 - FTP[Not Tested]"
+    type: socks5
+    server: 210.4.76.163
+    port: 9090
+    username: MX
+    password: XM
+
+  - name: "Premium Proxy 124 - FTP[Not Tested]"
     type: socks5
     server: 210.4.78.198
     port: 1080
     username: 1
     password: 1
 
-  # ==========================================
-  # ðŸŒ SAMFTP - Proxies for http://10.16.100.244
-  # ==========================================
-  - name: "ðŸ¶ ðŸ¶ Dogs 2 - SAMFTP"
+  - name: "Premium Proxy 125 - FTP[Not Tested]"
     type: socks5
-    server: 103.38.55.55
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 3 - SAMFTP"
-    type: socks5
-    server: 103.166.253.94
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 6 - SAMFTP"
-    type: socks5
-    server: 103.108.60.35
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 7 - SAMFTP"
-    type: socks5
-    server: 103.84.252.101
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 10 - SAMFTP"
-    type: socks5
-    server: 118.179.158.241
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 8 - SAMFTP"
-    type: socks5
-    server: 123.253.96.249
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 15 - SAMFTP"
-    type: socks5
-    server: 103.159.218.218
-    port: 1920
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 16 - SAMFTP"
-    type: socks5
-    server: 43.229.210.8
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 17 - SAMFTP"
-    type: socks5
-    server: 103.123.169.243
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 22 - SAMFTP"
-    type: socks5
-    server: 103.71.46.197
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 23 - SAMFTP"
-    type: socks5
-    server: 202.144.201.98
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 30 - SAMFTP"
-    type: socks5
-    server: 103.189.158.13
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 31 - SAMFTP"
-    type: socks5
-    server: 203.96.226.98
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 33 - SAMFTP"
-    type: socks5
-    server: 118.179.214.107
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 32 - SAMFTP"
-    type: socks5
-    server: 103.108.60.92
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 34 - SAMFTP"
-    type: socks5
-    server: 203.190.8.8
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 37 - SAMFTP"
-    type: socks5
-    server: 123.49.39.120
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 40 - SAMFTP"
-    type: socks5
-    server: 103.108.60.173
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 41 - SAMFTP"
-    type: socks5
-    server: 103.166.253.92
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 44 - SAMFTP"
-    type: socks5
-    server: 103.84.252.97
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 45 - SAMFTP"
-    type: socks5
-    server: 103.199.155.186
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 46 - SAMFTP"
-    type: socks5
-    server: 203.190.9.73
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 48 - SAMFTP"
-    type: socks5
-    server: 123.253.96.148
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 49 - SAMFTP"
-    type: socks5
-    server: 202.4.105.122
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 50 - SAMFTP"
-    type: socks5
-    server: 103.245.96.21
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 61 - SAMFTP"
-    type: socks5
-    server: 122.102.35.105
-    port: 1080
-    username: user1
-    password: user1
-  - name: "ðŸ¶ ðŸ¶ Dogs 62 - SAMFTP"
-    type: socks5
-    server: 103.179.154.27
-    port: 1080
-    username: EDogs@dx
-    password: EDogs@dx
-  - name: "ðŸ¶ ðŸ¶ Dogs 65 - SAMFTP"
-    type: socks5
-    server: 118.179.197.30
-    port: 9090
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 69 - SAMFTP"
-    type: socks5
-    server: 115.127.107.106
-    port: 6699
-    username: EDogs
-    password: EDogs
-  - name: "ðŸ¶ ðŸ¶ Dogs 72 - SAMFTP"
-    type: socks5
-    server: 180.211.169.46
-    port: 1080
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 73 - SAMFTP"
-    type: socks5
-    server: 115.127.39.18
-    port: 6699
-    username: EDogs
-    password: EDogs
-  - name: "ðŸ¶ ðŸ¶ Dogs 75 - SAMFTP"
-    type: socks5
-    server: 115.127.106.158
-    port: 6699
-    username: EDogs
-    password: EDogs
-  - name: "ðŸ¶ ðŸ¶ Dogs 76 - SAMFTP"
-    type: socks5
-    server: 115.127.147.40
-    port: 6699
-    username: EDogs
-    password: EDogs
-  - name: "ðŸ¶ ðŸ¶ Dogs 78 - SAMFTP"
-    type: socks5
-    server: 118.179.101.117
-    port: 6699
-    username: test9
-    password: test9
-  - name: "ðŸ¶ ðŸ¶ Dogs 77 - SAMFTP"
-    type: socks5
-    server: 118.179.81.98
-    port: 6699
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 79 - SAMFTP"
-    type: socks5
-    server: 103.4.64.163
-    port: 6969
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 80 - SAMFTP"
-    type: socks5
-    server: 123.253.37.149
-    port: 6699
-    username: EDogs
-    password: EDogs
-
-  # ==========================================
-  # ðŸŒ FASTROUTER_172_16_50_4 - Proxies for http://172.16.50.4
-  # ==========================================
-  - name: "ðŸ¶ ðŸ¶ Dogs 2 - FASTROUTER_172_16_50_4"
-    type: socks5
-    server: 103.38.55.55
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 3 - FASTROUTER_172_16_50_4"
-    type: socks5
-    server: 103.166.253.94
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 6 - FASTROUTER_172_16_50_4"
-    type: socks5
-    server: 103.108.60.35
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 9 - FASTROUTER_172_16_50_4"
-    type: socks5
-    server: 103.197.48.198
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 12 - FASTROUTER_172_16_50_4"
-    type: socks5
-    server: 203.76.148.154
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 13 - FASTROUTER_172_16_50_4"
-    type: socks5
-    server: 180.148.214.52
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 15 - FASTROUTER_172_16_50_4"
-    type: socks5
-    server: 103.159.218.218
-    port: 1920
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 16 - FASTROUTER_172_16_50_4"
-    type: socks5
-    server: 43.229.210.8
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 17 - FASTROUTER_172_16_50_4"
-    type: socks5
-    server: 103.123.169.243
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 20 - FASTROUTER_172_16_50_4"
-    type: socks5
-    server: 103.122.252.94
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 21 - FASTROUTER_172_16_50_4"
-    type: socks5
-    server: 58.84.33.11
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 23 - FASTROUTER_172_16_50_4"
-    type: socks5
-    server: 202.144.201.98
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 25 - FASTROUTER_172_16_50_4"
-    type: socks5
-    server: 103.129.200.102
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 26 - FASTROUTER_172_16_50_4"
-    type: socks5
-    server: 103.197.48.126
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 28 - FASTROUTER_172_16_50_4"
-    type: socks5
-    server: 116.206.91.65
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 30 - FASTROUTER_172_16_50_4"
-    type: socks5
-    server: 103.189.158.13
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 31 - FASTROUTER_172_16_50_4"
-    type: socks5
-    server: 203.96.226.98
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 32 - FASTROUTER_172_16_50_4"
-    type: socks5
-    server: 103.108.60.92
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 35 - FASTROUTER_172_16_50_4"
-    type: socks5
-    server: 103.254.167.18
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 36 - FASTROUTER_172_16_50_4"
-    type: socks5
-    server: 103.30.29.204
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 38 - FASTROUTER_172_16_50_4"
-    type: socks5
-    server: 103.140.25.10
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 40 - FASTROUTER_172_16_50_4"
-    type: socks5
-    server: 103.108.60.173
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 41 - FASTROUTER_172_16_50_4"
-    type: socks5
-    server: 103.166.253.92
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 42 - FASTROUTER_172_16_50_4"
-    type: socks5
-    server: 103.129.200.173
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 43 - FASTROUTER_172_16_50_4"
-    type: socks5
-    server: 103.122.254.33
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 46 - FASTROUTER_172_16_50_4"
-    type: socks5
-    server: 203.190.9.73
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 51 - FASTROUTER_172_16_50_4"
-    type: socks5
-    server: 103.81.104.177
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 64 - FASTROUTER_172_16_50_4"
-    type: socks5
-    server: 103.126.23.240
-    port: 1080
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 69 - FASTROUTER_172_16_50_4"
-    type: socks5
-    server: 115.127.107.106
-    port: 6699
-    username: EDogs
-    password: EDogs
-  - name: "ðŸ¶ ðŸ¶ Dogs 73 - FASTROUTER_172_16_50_4"
-    type: socks5
-    server: 115.127.39.18
-    port: 6699
-    username: EDogs
-    password: EDogs
-  - name: "ðŸ¶ ðŸ¶ Dogs 75 - FASTROUTER_172_16_50_4"
-    type: socks5
-    server: 115.127.106.158
-    port: 6699
-    username: EDogs
-    password: EDogs
-  - name: "ðŸ¶ ðŸ¶ Dogs 76 - FASTROUTER_172_16_50_4"
-    type: socks5
-    server: 115.127.147.40
-    port: 6699
-    username: EDogs
-    password: EDogs
-  - name: "ðŸ¶ ðŸ¶ Dogs 80 - FASTROUTER_172_16_50_4"
-    type: socks5
-    server: 123.253.37.149
-    port: 6699
-    username: EDogs
-    password: EDogs
-
-  # ==========================================
-  # ðŸŒ TIMEPASSBD - Proxies for http://timepassbd.live
-  # ==========================================
-  - name: "ðŸ¶ ðŸ¶ Dogs 2 - TIMEPASSBD"
-    type: socks5
-    server: 103.38.55.55
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 3 - TIMEPASSBD"
-    type: socks5
-    server: 103.166.253.94
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 17 - TIMEPASSBD"
-    type: socks5
-    server: 103.123.169.243
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 41 - TIMEPASSBD"
-    type: socks5
-    server: 103.166.253.92
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 45 - TIMEPASSBD"
-    type: socks5
-    server: 103.199.155.186
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 62 - TIMEPASSBD"
-    type: socks5
-    server: 103.179.154.27
-    port: 1080
-    username: EDogs@dx
-    password: EDogs@dx
-
-  # ==========================================
-  # ðŸŒ EBOXFS - Proxies for http://fs.ebox.live
-  # ==========================================
-  - name: "ðŸ¶ ðŸ¶ Dogs 3 - EBOXFS"
-    type: socks5
-    server: 103.166.253.94
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 17 - EBOXFS"
-    type: socks5
-    server: 103.123.169.243
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 23 - EBOXFS"
-    type: socks5
-    server: 202.144.201.98
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 41 - EBOXFS"
-    type: socks5
-    server: 103.166.253.92
-    port: 1088
-    username: test
-    password: test
-
-  # ==========================================
-  # ðŸŒ SHOWTIME - Proxies for http://showtimebd.com
-  # ==========================================
-  - name: "ðŸ¶ ðŸ¶ Dogs 1 - SHOWTIME"
-    type: socks5
-    server: 103.126.23.222
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 3 - SHOWTIME"
-    type: socks5
-    server: 103.166.253.94
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 6 - SHOWTIME"
-    type: socks5
-    server: 103.108.60.35
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 10 - SHOWTIME"
-    type: socks5
-    server: 118.179.158.241
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 9 - SHOWTIME"
-    type: socks5
-    server: 103.197.48.198
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 7 - SHOWTIME"
-    type: socks5
-    server: 103.84.252.101
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 8 - SHOWTIME"
-    type: socks5
-    server: 123.253.96.249
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 12 - SHOWTIME"
-    type: socks5
-    server: 203.76.148.154
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 11 - SHOWTIME"
-    type: socks5
-    server: 43.243.205.58
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 13 - SHOWTIME"
-    type: socks5
-    server: 180.148.214.52
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 15 - SHOWTIME"
-    type: socks5
-    server: 103.159.218.218
-    port: 1920
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 16 - SHOWTIME"
-    type: socks5
-    server: 43.229.210.8
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 17 - SHOWTIME"
-    type: socks5
-    server: 103.123.169.243
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 20 - SHOWTIME"
-    type: socks5
-    server: 103.122.252.94
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 21 - SHOWTIME"
-    type: socks5
-    server: 58.84.33.11
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 22 - SHOWTIME"
-    type: socks5
-    server: 103.71.46.197
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 23 - SHOWTIME"
-    type: socks5
-    server: 202.144.201.98
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 25 - SHOWTIME"
-    type: socks5
-    server: 103.129.200.102
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 26 - SHOWTIME"
-    type: socks5
-    server: 103.197.48.126
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 31 - SHOWTIME"
-    type: socks5
-    server: 203.96.226.98
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 29 - SHOWTIME"
-    type: socks5
-    server: 103.81.104.206
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 30 - SHOWTIME"
-    type: socks5
-    server: 103.189.158.13
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 33 - SHOWTIME"
-    type: socks5
-    server: 118.179.214.107
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 32 - SHOWTIME"
-    type: socks5
-    server: 103.108.60.92
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 34 - SHOWTIME"
-    type: socks5
-    server: 203.190.8.8
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 35 - SHOWTIME"
-    type: socks5
-    server: 103.254.167.18
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 36 - SHOWTIME"
-    type: socks5
-    server: 103.30.29.204
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 37 - SHOWTIME"
-    type: socks5
-    server: 123.49.39.120
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 39 - SHOWTIME"
-    type: socks5
-    server: 103.197.48.154
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 40 - SHOWTIME"
-    type: socks5
-    server: 103.108.60.173
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 41 - SHOWTIME"
-    type: socks5
-    server: 103.166.253.92
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 38 - SHOWTIME"
-    type: socks5
-    server: 103.140.25.10
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 42 - SHOWTIME"
-    type: socks5
-    server: 103.129.200.173
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 43 - SHOWTIME"
-    type: socks5
-    server: 103.122.254.33
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 45 - SHOWTIME"
-    type: socks5
-    server: 103.199.155.186
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 46 - SHOWTIME"
-    type: socks5
-    server: 203.190.9.73
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 49 - SHOWTIME"
-    type: socks5
-    server: 202.4.105.122
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 48 - SHOWTIME"
-    type: socks5
-    server: 123.253.96.148
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 50 - SHOWTIME"
-    type: socks5
-    server: 103.245.96.21
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 52 - SHOWTIME"
-    type: socks5
-    server: 103.91.231.244
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 53 - SHOWTIME"
-    type: socks5
-    server: 103.186.238.1
-    port: 9169
-    username: true
-    password: true
-  - name: "ðŸ¶ ðŸ¶ Dogs 62 - SHOWTIME"
-    type: socks5
-    server: 103.179.154.27
-    port: 1080
-    username: EDogs@dx
-    password: EDogs@dx
-  - name: "ðŸ¶ ðŸ¶ Dogs 63 - SHOWTIME"
-    type: socks5
-    server: 115.127.192.158
-    port: 9966
-    username: Admintest
-    password: Admintest
-  - name: "ðŸ¶ ðŸ¶ Dogs 64 - SHOWTIME"
-    type: socks5
-    server: 103.126.23.240
-    port: 1080
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 65 - SHOWTIME"
-    type: socks5
-    server: 118.179.197.30
-    port: 9090
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 69 - SHOWTIME"
-    type: socks5
-    server: 115.127.107.106
-    port: 6699
-    username: EDogs
-    password: EDogs
-  - name: "ðŸ¶ ðŸ¶ Dogs 70 - SHOWTIME"
-    type: socks5
-    server: 49.0.46.98
-    port: 1080
-    username: Admintest
-    password: Admintest
-  - name: "ðŸ¶ ðŸ¶ Dogs 72 - SHOWTIME"
-    type: socks5
-    server: 180.211.169.46
-    port: 1080
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 73 - SHOWTIME"
-    type: socks5
-    server: 115.127.39.18
-    port: 6699
-    username: EDogs
-    password: EDogs
-  - name: "ðŸ¶ ðŸ¶ Dogs 75 - SHOWTIME"
-    type: socks5
-    server: 115.127.106.158
-    port: 6699
-    username: EDogs
-    password: EDogs
-  - name: "ðŸ¶ ðŸ¶ Dogs 76 - SHOWTIME"
-    type: socks5
-    server: 115.127.147.40
-    port: 6699
-    username: EDogs
-    password: EDogs
-  - name: "ðŸ¶ ðŸ¶ Dogs 78 - SHOWTIME"
-    type: socks5
-    server: 118.179.101.117
-    port: 6699
-    username: test9
-    password: test9
-  - name: "ðŸ¶ ðŸ¶ Dogs 79 - SHOWTIME"
-    type: socks5
-    server: 103.4.64.163
-    port: 6969
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 80 - SHOWTIME"
-    type: socks5
-    server: 123.253.37.149
-    port: 6699
-    username: EDogs
-    password: EDogs
-  - name: "ðŸ¶ ðŸ¶ Dogs 81 - SHOWTIME"
-    type: socks5
-    server: 49.0.39.182
-    port: 1080
-    username: Admintest
-    password: Admintest
-  - name: "ðŸ¶ ðŸ¶ Dogs 83 - SHOWTIME"
-    type: socks5
-    server: 45.125.220.223
-    port: 1052
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 94 - SHOWTIME"
-    type: socks5
-    server: 103.218.27.66
+    server: 43.224.116.21
     port: 1052
     username: ras
     password: ras
-  - name: "ðŸ¶ ðŸ¶ Dogs 95 - SHOWTIME"
-    type: socks5
-    server: 103.218.27.67
-    port: 1052
-    username: ras
-    password: ras
-  - name: "ðŸ¶ ðŸ¶ Dogs 104 - SHOWTIME"
-    type: socks5
-    server: 43.243.204.178
-    port: 9090
-    username: MX
-    password: XM
-  - name: "ðŸ¶ ðŸ¶ Dogs 105 - SHOWTIME"
-    type: socks5
-    server: 43.243.204.181
-    port: 9090
-    username: MX
-    password: XM
-  - name: "ðŸ¶ ðŸ¶ Dogs 106 - SHOWTIME"
-    type: socks5
-    server: 43.243.204.193
-    port: 9090
-    username: MX
-    password: XM
-  - name: "ðŸ¶ ðŸ¶ Dogs 107 - SHOWTIME"
-    type: socks5
-    server: 43.243.205.58
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 109 - SHOWTIME"
-    type: socks5
-    server: 119.40.82.113
-    port: 9090
-    username: MX
-    password: XM
-  - name: "ðŸ¶ ðŸ¶ Dogs 110 - SHOWTIME"
-    type: socks5
-    server: 119.40.83.153
-    port: 9090
-    username: MX
-    password: XM
-  - name: "ðŸ¶ ðŸ¶ Dogs 111 - SHOWTIME"
-    type: socks5
-    server: 119.40.89.138
-    port: 9090
-    username: MX
-    password: XM
-  - name: "ðŸ¶ ðŸ¶ Dogs 112 - SHOWTIME"
-    type: socks5
-    server: 119.40.89.138
-    port: 9090
-    username: MX
-    password: XM
-  - name: "ðŸ¶ ðŸ¶ Dogs 113 - SHOWTIME"
-    type: socks5
-    server: 119.40.89.138
-    port: 9090
-    username: MX
-    password: XM
-  - name: "ðŸ¶ ðŸ¶ Dogs 114 - SHOWTIME"
-    type: socks5
-    server: 119.40.93.154
-    port: 9090
-    username: MX
-    password: XM
-  - name: "ðŸ¶ ðŸ¶ Dogs 116 - SHOWTIME"
-    type: socks5
-    server: 119.40.93.154
-    port: 9090
-    username: MX
-    password: XM
-  - name: "ðŸ¶ ðŸ¶ Dogs 117 - SHOWTIME"
-    type: socks5
-    server: 210.4.66.62
-    port: 9090
-    username: MX
-    password: XM
-  - name: "ðŸ¶ ðŸ¶ Dogs 118 - SHOWTIME"
-    type: socks5
-    server: 210.4.66.150
-    port: 9090
-    username: MX
-    password: XM
-  - name: "ðŸ¶ ðŸ¶ Dogs 119 - SHOWTIME"
-    type: socks5
-    server: 210.4.67.65
-    port: 9090
-    username: MX
-    password: XM
-  - name: "ðŸ¶ ðŸ¶ Dogs 122 - SHOWTIME"
-    type: socks5
-    server: 210.4.75.185
-    port: 9090
-    username: MX
-    password: XM
-  - name: "ðŸ¶ ðŸ¶ Dogs 124 - SHOWTIME"
-    type: socks5
-    server: 210.4.78.198
-    port: 1080
-    username: 1
-    password: 1
-
-  # ==========================================
-  # ðŸŒ CIRCLEFTP - Proxies for http://new.circleftp.net
-  # ==========================================
-  - name: "ðŸ¶ ðŸ¶ Dogs 6 - CIRCLEFTP"
-    type: socks5
-    server: 103.108.60.35
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 9 - CIRCLEFTP"
-    type: socks5
-    server: 103.197.48.198
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 20 - CIRCLEFTP"
-    type: socks5
-    server: 103.122.252.94
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 21 - CIRCLEFTP"
-    type: socks5
-    server: 58.84.33.11
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 23 - CIRCLEFTP"
-    type: socks5
-    server: 202.144.201.98
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 25 - CIRCLEFTP"
-    type: socks5
-    server: 103.129.200.102
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 26 - CIRCLEFTP"
-    type: socks5
-    server: 103.197.48.126
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 30 - CIRCLEFTP"
-    type: socks5
-    server: 103.189.158.13
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 31 - CIRCLEFTP"
-    type: socks5
-    server: 203.96.226.98
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 35 - CIRCLEFTP"
-    type: socks5
-    server: 103.254.167.18
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 42 - CIRCLEFTP"
-    type: socks5
-    server: 103.129.200.173
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 40 - CIRCLEFTP"
-    type: socks5
-    server: 103.108.60.173
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 43 - CIRCLEFTP"
-    type: socks5
-    server: 103.122.254.33
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 53 - CIRCLEFTP"
-    type: socks5
-    server: 103.186.238.1
-    port: 9169
-    username: true
-    password: true
-  - name: "ðŸ¶ ðŸ¶ Dogs 62 - CIRCLEFTP"
-    type: socks5
-    server: 103.179.154.27
-    port: 1080
-    username: EDogs@dx
-    password: EDogs@dx
-  - name: "ðŸ¶ ðŸ¶ Dogs 69 - CIRCLEFTP"
-    type: socks5
-    server: 115.127.107.106
-    port: 6699
-    username: EDogs
-    password: EDogs
-  - name: "ðŸ¶ ðŸ¶ Dogs 73 - CIRCLEFTP"
-    type: socks5
-    server: 115.127.39.18
-    port: 6699
-    username: EDogs
-    password: EDogs
-  - name: "ðŸ¶ ðŸ¶ Dogs 75 - CIRCLEFTP"
-    type: socks5
-    server: 115.127.106.158
-    port: 6699
-    username: EDogs
-    password: EDogs
-  - name: "ðŸ¶ ðŸ¶ Dogs 76 - CIRCLEFTP"
-    type: socks5
-    server: 115.127.147.40
-    port: 6699
-    username: EDogs
-    password: EDogs
-
-  # ==========================================
-  # ðŸŒ FTPBD - Proxies for https://ftpbd.net
-  # ==========================================
-  - name: "ðŸ¶ ðŸ¶ Dogs 6 - FTPBD"
-    type: socks5
-    server: 103.108.60.35
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 7 - FTPBD"
-    type: socks5
-    server: 103.84.252.101
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 10 - FTPBD"
-    type: socks5
-    server: 118.179.158.241
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 9 - FTPBD"
-    type: socks5
-    server: 103.197.48.198
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 8 - FTPBD"
-    type: socks5
-    server: 123.253.96.249
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 12 - FTPBD"
-    type: socks5
-    server: 203.76.148.154
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 13 - FTPBD"
-    type: socks5
-    server: 180.148.214.52
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 15 - FTPBD"
-    type: socks5
-    server: 103.159.218.218
-    port: 1920
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 16 - FTPBD"
-    type: socks5
-    server: 43.229.210.8
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 21 - FTPBD"
-    type: socks5
-    server: 58.84.33.11
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 20 - FTPBD"
-    type: socks5
-    server: 103.122.252.94
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 22 - FTPBD"
-    type: socks5
-    server: 103.71.46.197
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 23 - FTPBD"
-    type: socks5
-    server: 202.144.201.98
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 25 - FTPBD"
-    type: socks5
-    server: 103.129.200.102
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 26 - FTPBD"
-    type: socks5
-    server: 103.197.48.126
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 30 - FTPBD"
-    type: socks5
-    server: 103.189.158.13
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 31 - FTPBD"
-    type: socks5
-    server: 203.96.226.98
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 33 - FTPBD"
-    type: socks5
-    server: 118.179.214.107
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 32 - FTPBD"
-    type: socks5
-    server: 103.108.60.92
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 34 - FTPBD"
-    type: socks5
-    server: 203.190.8.8
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 35 - FTPBD"
-    type: socks5
-    server: 103.254.167.18
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 36 - FTPBD"
-    type: socks5
-    server: 103.30.29.204
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 37 - FTPBD"
-    type: socks5
-    server: 123.49.39.120
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 39 - FTPBD"
-    type: socks5
-    server: 103.197.48.154
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 40 - FTPBD"
-    type: socks5
-    server: 103.108.60.173
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 38 - FTPBD"
-    type: socks5
-    server: 103.140.25.10
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 42 - FTPBD"
-    type: socks5
-    server: 103.129.200.173
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 43 - FTPBD"
-    type: socks5
-    server: 103.122.254.33
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 45 - FTPBD"
-    type: socks5
-    server: 103.199.155.186
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 46 - FTPBD"
-    type: socks5
-    server: 203.190.9.73
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 47 - FTPBD"
-    type: socks5
-    server: 220.247.165.129
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 48 - FTPBD"
-    type: socks5
-    server: 123.253.96.148
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 49 - FTPBD"
-    type: socks5
-    server: 202.4.105.122
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 50 - FTPBD"
-    type: socks5
-    server: 103.245.96.21
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 52 - FTPBD"
-    type: socks5
-    server: 103.91.231.244
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 53 - FTPBD"
-    type: socks5
-    server: 103.186.238.1
-    port: 9169
-    username: true
-    password: true
-  - name: "ðŸ¶ ðŸ¶ Dogs 62 - FTPBD"
-    type: socks5
-    server: 103.179.154.27
-    port: 1080
-    username: EDogs@dx
-    password: EDogs@dx
-  - name: "ðŸ¶ ðŸ¶ Dogs 63 - FTPBD"
-    type: socks5
-    server: 115.127.192.158
-    port: 9966
-    username: Admintest
-    password: Admintest
-  - name: "ðŸ¶ ðŸ¶ Dogs 64 - FTPBD"
-    type: socks5
-    server: 103.126.23.240
-    port: 1080
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 65 - FTPBD"
-    type: socks5
-    server: 118.179.197.30
-    port: 9090
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 70 - FTPBD"
-    type: socks5
-    server: 49.0.46.98
-    port: 1080
-    username: Admintest
-    password: Admintest
-  - name: "ðŸ¶ ðŸ¶ Dogs 72 - FTPBD"
-    type: socks5
-    server: 180.211.169.46
-    port: 1080
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 78 - FTPBD"
-    type: socks5
-    server: 118.179.101.117
-    port: 6699
-    username: test9
-    password: test9
-  - name: "ðŸ¶ ðŸ¶ Dogs 79 - FTPBD"
-    type: socks5
-    server: 103.4.64.163
-    port: 6969
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 80 - FTPBD"
-    type: socks5
-    server: 123.253.37.149
-    port: 6699
-    username: EDogs
-    password: EDogs
-  - name: "ðŸ¶ ðŸ¶ Dogs 81 - FTPBD"
-    type: socks5
-    server: 49.0.39.182
-    port: 1080
-    username: Admintest
-    password: Admintest
-  - name: "ðŸ¶ ðŸ¶ Dogs 83 - FTPBD"
-    type: socks5
-    server: 45.125.220.223
-    port: 1052
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 94 - FTPBD"
-    type: socks5
-    server: 103.218.27.66
-    port: 1052
-    username: ras
-    password: ras
-  - name: "ðŸ¶ ðŸ¶ Dogs 95 - FTPBD"
-    type: socks5
-    server: 103.218.27.67
-    port: 1052
-    username: ras
-    password: ras
-
-  # ==========================================
-  # ðŸŒ DISCOVERY - Proxies for https://discoveryftp.net
-  # ==========================================
-  - name: "ðŸ¶ ðŸ¶ Dogs 9 - DISCOVERY"
-    type: socks5
-    server: 103.197.48.198
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 17 - DISCOVERY"
-    type: socks5
-    server: 103.123.169.243
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 21 - DISCOVERY"
-    type: socks5
-    server: 58.84.33.11
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 25 - DISCOVERY"
-    type: socks5
-    server: 103.129.200.102
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 26 - DISCOVERY"
-    type: socks5
-    server: 103.197.48.126
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 35 - DISCOVERY"
-    type: socks5
-    server: 103.254.167.18
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 41 - DISCOVERY"
-    type: socks5
-    server: 103.166.253.92
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 42 - DISCOVERY"
-    type: socks5
-    server: 103.129.200.173
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 62 - DISCOVERY"
-    type: socks5
-    server: 103.179.154.27
-    port: 1080
-    username: EDogs@dx
-    password: EDogs@dx
-  - name: "ðŸ¶ ðŸ¶ Dogs 69 - DISCOVERY"
-    type: socks5
-    server: 115.127.107.106
-    port: 6699
-    username: EDogs
-    password: EDogs
-  - name: "ðŸ¶ ðŸ¶ Dogs 73 - DISCOVERY"
-    type: socks5
-    server: 115.127.39.18
-    port: 6699
-    username: EDogs
-    password: EDogs
-  - name: "ðŸ¶ ðŸ¶ Dogs 75 - DISCOVERY"
-    type: socks5
-    server: 115.127.106.158
-    port: 6699
-    username: EDogs
-    password: EDogs
-  - name: "ðŸ¶ ðŸ¶ Dogs 76 - DISCOVERY"
-    type: socks5
-    server: 115.127.147.40
-    port: 6699
-    username: EDogs
-    password: EDogs
-
-  # ==========================================
-  # ðŸŒ EBOXPLAY - Proxies for http://play.ebox.live
-  # ==========================================
-  - name: "ðŸ¶ ðŸ¶ Dogs 17 - EBOXPLAY"
-    type: socks5
-    server: 103.123.169.243
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 23 - EBOXPLAY"
-    type: socks5
-    server: 202.144.201.98
-    port: 1088
-    username: test
-    password: test
-  - name: "ðŸ¶ ðŸ¶ Dogs 41 - EBOXPLAY"
-    type: socks5
-    server: 103.166.253.92
-    port: 1088
-    username: test
-    password: test
 
