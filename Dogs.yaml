@@ -1,8 +1,8 @@
 # Provider.yaml - Proxies with FTP service information
-# Generated: 2025-08-27 22:19:12
+# Generated: 2025-08-27 22:31:53
 # Based on: Cati.yaml
 # URLs tested: 2
-# Successful proxies: 35
+# Successful proxies: 36
 #
 # This file contains proxies with FTP service information in their names
 # Similar to the original provider.yaml structure
@@ -86,7 +86,7 @@ proxies:
     username: test
     password: test
 
-  - name: "Premium Proxy 12 - FTP[Not Tested]"
+  - name: "Premium Proxy 12 - FTP[Nagordola]"
     type: socks5
     server: 203.76.148.154
     port: 1088
@@ -289,7 +289,7 @@ proxies:
     username: test
     password: test
 
-  - name: "Premium Proxy 41 - FTP[Not Tested]"
+  - name: "Premium Proxy 41 - FTP[Nagordola]"
     type: socks5
     server: 103.166.253.92
     port: 1088
@@ -422,7 +422,7 @@ proxies:
     username: user1
     password: user1
 
-  - name: "Premium Proxy 62 - FTP[CircleFTP]"
+  - name: "Premium Proxy 62 - FTP[Not Tested]"
     type: socks5
     server: 103.179.154.27
     port: 1080
